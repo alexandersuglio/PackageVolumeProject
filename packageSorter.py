@@ -1,3 +1,4 @@
+# updating more later to check/confirm
 # calculate volume
 # A package is BULKY if its volume (Width x Height x Length)
 # is greater than or equal to 1,000,000 cm³ or when one of its dimensions (W, H, L) is greater or equal to 150 cm.
